@@ -1,1 +1,3 @@
 # pl-jam
+
+So I decided to play around with making a programming language...
